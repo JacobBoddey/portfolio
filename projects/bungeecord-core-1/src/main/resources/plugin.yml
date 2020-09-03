@@ -1,0 +1,4 @@
+name: Proxy
+main: net.valux.legacy.proxy.Proxy
+version: 1.0-SNAPSHOT
+author: Bodsterrr
